@@ -1,0 +1,2 @@
+# PyMcLog
+PythonでMinecraftサーバーのログを取得する
